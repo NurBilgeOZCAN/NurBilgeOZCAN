@@ -13,9 +13,9 @@
 </h3>
 
 <p align="center">
-  Yapay zeka, derin öğrenme, computer vision ve modern yazılım geliştirme alanlarında kendimi geliştiriyorum.
-  <br>
-  Araştırma odaklı projeler üretmeyi, açık kaynak çalışmalara katkı sağlamayı ve AI destekli yazılım geliştirme süreçlerini keşfetmeyi seviyorum.
+ I am developing myself in the fields of artificial intelligence, deep learning, computer vision, and modern software development.
+<br>
+I enjoy building research-oriented projects, contributing to open-source work, and exploring AI-assisted software development workflows.
 </p>
 
 <br>
