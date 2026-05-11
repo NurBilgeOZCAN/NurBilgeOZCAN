@@ -1,15 +1,79 @@
-"<div align="center"> <!-- Banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nur%20Bilge%20Özcan&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" /> # 👋 Merhaba, Ben Nur Bilge Özcan! **💻 Bilgisayar Mühendisliği Öğrencisi | 🤖 AI & Deep Learning Researcher** <!-- Uiverse-Style Buttons --> <a href="https://bilgeozcan.github.io/" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/🌐-Portfolio-866ee7?style=for-the-badge&logo=appveyor&logoColor=white" /> </a> <a href="https://linkedin.com/in/nur-bilge-özcan-123975257" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/💼-LinkedIn-ea60da?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:bilgeozcan@gmail.com" style="text-decoration:none;"> <img src="https://img.shields.io/badge/E-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://ieeexplore.ieee.org/document/11017268" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/📘-IEEE%20Yayını-fbd41d?style=for-the-badge&logo=ieee&logoColor=white" /> </a> <br><br> ![Profile Views](https://komarev.com/ghpvc/?username=bilgeozcan&color=fc0987&style=for-the-badge) </div>
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:866ee7,50:ea60da,100:fc0987&height=240&section=header&text=Nur%20Bilge%20Özcan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Deep%20Learning%20Researcher%20%7C%20Software%20Developer&descSize=16&descAlignY=58" 
+  width="100%" 
+  alt="Nur Bilge Özcan GitHub Profile Banner" 
+/>
+
+<br>
+
+<!-- Typing Animation -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FC0987&center=true&vCenter=true&width=900&lines=Merhaba%2C+ben+Nur+Bilge+%C3%96zcan+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;AI+%26+Deep+Learning+Researcher+%F0%9F%A7%A0;Computer+Vision+%7C+LLMs+%7C+Software+Development+%F0%9F%9A%80" 
+  alt="Typing SVG" 
+/>
+
+<br><br>
+
+<h3>
+  💻 Computer Engineering Student &nbsp;|&nbsp; 🤖 AI Researcher &nbsp;|&nbsp; 🚀 Software Developer
+</h3>
+
+<p align="center">
+  Yapay zeka, derin öğrenme, computer vision ve modern yazılım geliştirme alanlarında kendimi geliştiriyorum.  
+  Araştırma odaklı projeler üretmeyi, açık kaynak çalışmalara katkı sağlamayı ve AI destekli yazılım geliştirme süreçlerini keşfetmeyi seviyorum.
+</p>
+
+<br>
+
+<!-- Social & Contact Buttons -->
+<a href="https://github.com/NurBilgeOZCAN" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-NurBilgeOZCAN-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://bilgeozcan.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-866ee7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/nur-bilge-özcan-123975257" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Nur%20Bilge%20%C3%96zcan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:bilgeozcan@gmail.com">
+  <img src="https://img.shields.io/badge/E--Mail-bilgeozcan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://ieeexplore.ieee.org/document/11017268" target="_blank">
+  <img src="https://img.shields.io/badge/IEEE-Publication-fbd41d?style=for-the-badge&logo=ieee&logoColor=black" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=NurBilgeOZCAN&label=Profile%20Views&color=fc0987&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
+<!-- Mini Highlight Badges -->
+<img src="https://img.shields.io/badge/AI%20Research-866ee7?style=flat-square" />
+<img src="https://img.shields.io/badge/Deep%20Learning-ea60da?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer%20Vision-fc0987?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20Source-fbd41d?style=flat-square" />
+
+</div>
 
 ---
 
 ## ✨ About Me
 
-- 🎓 **Computer Engineering Student** at Yozgat Bozok University  
-- 🧠 Interested in **Artificial Intelligence, Deep Learning, Computer Vision and LLMs**
-- 🔬 Working on research-oriented AI projects and academic publications
-- 🛠️ Building hands-on projects with **React, TypeScript, Python, .NET, GitHub Copilot and AI-assisted development tools**
-- 📚 Focused on improving software engineering workflows with **prompt engineering, spec-driven development and MCP-based tooling**
-- 🚀 Passionate about creating practical, well-documented and open-source projects
+- 🎓 I am a **Computer Engineering student** at **Yozgat Bozok University**.  
+- 🧠 I am interested in **Artificial Intelligence, Deep Learning, Computer Vision and Large Language Models**.  
+- 🔬 I work on research-oriented AI projects, academic publications and hands-on software development tasks.  
+- 🛠️ I build projects using **React, TypeScript, Python, .NET, GitHub Copilot and AI-assisted development tools**.  
+- 📚 I focus on improving software engineering workflows with **prompt engineering, spec-driven development and MCP-based tooling**.  
+- 🚀 I enjoy creating practical, well-documented and open-source projects that combine research with real-world applications.
 
 ---
 
@@ -82,7 +146,7 @@ A browser-based personal task board built with **React, TypeScript and Vite**.
 ### 🎯 Module1-Task2  
 #### Precision Prompting Lab
 
-A lab project demonstrating how prompt quality changes when requirements become more precise and structured.
+A lab project demonstrating how prompt quality changes when requirements become more precise, structured and testable.
 
 **Core Focus**
 - Vague vs precise prompts
@@ -198,6 +262,77 @@ A spec-driven personal task board project created with **GitHub SpecKit** and AI
 
 ---
 
+## 🌱 Current Focus
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:866ee7,50:ea60da,100:fc0987&height=2&section=header" width="100%" />
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AI%20Research-90%25-866ee7?style=for-the-badge&logo=openai&logoColor=white" />
+      <br><br>
+      <b>AI Research</b>
+      <br>
+      <sub>Research-oriented AI projects, academic work and model experimentation</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Deep%20Learning-85%25-ea60da?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <br><br>
+      <b>Deep Learning</b>
+      <br>
+      <sub>Neural networks, model training and applied machine learning workflows</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Computer%20Vision-80%25-fc0987?style=for-the-badge&logo=opencv&logoColor=white" />
+      <br><br>
+      <b>Computer Vision</b>
+      <br>
+      <sub>YOLO-based detection, image processing and visual AI systems</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-90%25-fbd41d?style=for-the-badge&logo=githubcopilot&logoColor=black" />
+      <br><br>
+      <b>Prompt Engineering</b>
+      <br>
+      <sub>Precise prompts, AI-assisted development and structured workflows</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Spec--Driven%20Development-75%25-0A66C2?style=for-the-badge&logo=markdown&logoColor=white" />
+      <br><br>
+      <b>Spec-Driven Development</b>
+      <br>
+      <sub>Requirements, specs, task planning and implementation discipline</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Frontend%20Development-70%25-181717?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <br><br>
+      <b>Frontend Development</b>
+      <br>
+      <sub>React, TypeScript, Vite and clean user interface development</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Currently%20Building-AI%20Assisted%20Software%20Projects-866ee7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-MCP%20%7C%20SpecKit%20%7C%20LLMs-ea60da?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Goal-Research%20%2B%20Real%20World%20AI%20Products-fc0987?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fc0987,50:ea60da,100:866ee7&height=2&section=footer" width="100%" />
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -213,12 +348,46 @@ A spec-driven personal task board project created with **GitHub SpecKit** and AI
 
 ---
 
-## 🌱 Current Focus
+## 📌 Repository Roadmap
 
-```txt
-AI Research              ████████████████████░░░░
-Deep Learning            ███████████████████░░░░░
-Computer Vision          ██████████████████░░░░░░
-Prompt Engineering       ████████████████████░░░░
-Spec-Driven Development  █████████████████░░░░░░░
-Frontend Development     ████████████████░░░░░░░░
+I am currently organizing my GitHub profile around hands-on learning modules, AI-assisted software development labs and research-based projects.
+
+Planned improvements:
+
+- Add polished README files for each module repository
+- Add screenshots and demo GIFs
+- Add GitHub Pages demos for frontend projects
+- Add clearer project descriptions and repository topics
+- Continue building AI, deep learning and software engineering focused projects
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+For collaboration, academic work, research projects or software development opportunities:
+
+<br><br>
+
+<a href="mailto:bilgeozcan@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/nur-bilge-özcan-123975257">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/NurBilgeOZCAN">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc0987,50:ea60da,100:866ee7&height=140&section=footer" width="100%" />
+
+</div>
