@@ -56,15 +56,15 @@ _“Strawberry Ripeness Detection: Optimizing Harvesting Efficiency with YOLOv11
 
 ## 🛠️ Projeler & Teknolojiler
 
-### 1️⃣ UstaPlatform
-📌 **Açıklama:** Arcadia şehrinde kayıp uzmanları bulmayı kolaylaştıran bir platform.  
-💻 **Teknolojiler:** C#, .NET 7, ASP.NET MVC, SQL Server, REST API, HTML/CSS/JS  
-🔗 [Repo Linki](https://github.com/bilgeozcan/UstaPlatform)
-
-### 2️⃣ AI-Based Strawberry Ripeness Detection
+### 1️⃣ AI-Based Strawberry Ripeness Detection
 📌 **Açıklama:** Çilek olgunluğunu tespit eden YOLOv11 tabanlı bir derin öğrenme modeli.  
 💻 **Teknolojiler:** Python, PyTorch, YOLOv11, OpenCV, NumPy, Pandas  
 🔗 [IEEE Yayını](https://ieeexplore.ieee.org/document/11017268)
+
+### 2️⃣ UstaPlatform
+📌 **Açıklama:** Arcadia şehrinde kayıp uzmanları bulmayı kolaylaştıran bir platform.  
+💻 **Teknolojiler:** C#, .NET 7, ASP.NET MVC, SQL Server, REST API, HTML/CSS/JS  
+🔗 [Repo Linki](https://github.com/bilgeozcan/UstaPlatform)
 
 ### 3️⃣ Smart Home IoT System
 📌 **Açıklama:** Ev otomasyonunu sağlayan IoT tabanlı akıllı sistem.  
