@@ -1,7 +1,4 @@
-<div align="center">
-
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:866ee7,50:ea60da,100:fc0987&height=230&section=header&text=Nur%20Bilge%20Özcan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20%7C%20AI%20%26%20Deep%20Learning%20%7C%20Research%20%26%20Software%20Development&descSize=16&descAlignY=58" width="100%" alt="Nur Bilge Özcan Banner" />
+"<div align="center"> <!-- Banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nur%20Bilge%20Özcan&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" />
 
 # 👋 Merhaba, Ben Nur Bilge Özcan
 
