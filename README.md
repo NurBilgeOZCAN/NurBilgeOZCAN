@@ -1,13 +1,4 @@
-<div align="center">
-
-<!-- Stable Animated Header Banner -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:866ee7,50:ea60da,100:fc0987&height=230&section=header&text=Nur%20Bilge%20Ozcan&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Deep%20Learning%20Researcher&descSize=17&descAlignY=56" 
-  width="100%" 
-  alt="Nur Bilge Ozcan GitHub Profile Banner" 
-/>
-
-<br>
+"<div align="center"> <!-- Banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nur%20Bilge%20Özcan&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" />
 
 <!-- Typing Animation -->
 <img 
