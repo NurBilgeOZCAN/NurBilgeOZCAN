@@ -1,32 +1,4 @@
-"<div align="center"> <!-- Banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nur%20Bilge%20Özcan&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" />
-
-# 👋 Merhaba, Ben Nur Bilge Özcan
-
-### 💻 Computer Engineering Student | 🤖 AI & Deep Learning Researcher | 🚀 Software Developer
-
-Yapay zeka, derin öğrenme, computer vision ve modern yazılım geliştirme alanlarında kendini geliştiren;  
-araştırma, proje üretimi ve teknik dokümantasyon odaklı çalışan bir bilgisayar mühendisliği öğrencisiyim.
-
-<br>
-
-<a href="https://github.com/NurBilgeOZCAN" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-NurBilgeOZCAN-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/nurbilgeozcan" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Nur%20Bilge%20Özcan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:bilgeozcan@gmail.com">
-  <img src="https://img.shields.io/badge/E--Mail-bilgeozcan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://ieeexplore.ieee.org/document/11017268" target="_blank">
-  <img src="https://img.shields.io/badge/IEEE-Publication-fbd41d?style=for-the-badge&logo=ieee&logoColor=black" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=NurBilgeOZCAN&color=fc0987&style=for-the-badge" alt="Profile Views" />
-
-</div>
+"<div align="center"> <!-- Banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nur%20Bilge%20Özcan&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" /> # 👋 Merhaba, Ben Nur Bilge Özcan! **💻 Bilgisayar Mühendisliği Öğrencisi | 🤖 AI & Deep Learning Researcher** <!-- Uiverse-Style Buttons --> <a href="https://bilgeozcan.github.io/" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/🌐-Portfolio-866ee7?style=for-the-badge&logo=appveyor&logoColor=white" /> </a> <a href="https://linkedin.com/in/nur-bilge-özcan-123975257" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/💼-LinkedIn-ea60da?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:bilgeozcan@gmail.com" style="text-decoration:none;"> <img src="https://img.shields.io/badge/E-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://ieeexplore.ieee.org/document/11017268" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/📘-IEEE%20Yayını-fbd41d?style=for-the-badge&logo=ieee&logoColor=white" /> </a> <br><br> ![Profile Views](https://komarev.com/ghpvc/?username=bilgeozcan&color=fc0987&style=for-the-badge) </div>
 
 ---
 
