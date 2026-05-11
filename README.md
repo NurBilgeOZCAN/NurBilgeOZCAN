@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- Stable Animated Header Banner -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:866ee7,50:ea60da,100:fc0987&height=240&section=header&text=Nur%20Bilge%20Özcan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Deep%20Learning%20Researcher%20%7C%20Software%20Developer&descSize=16&descAlignY=58" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:866ee7,50:ea60da,100:fc0987&height=230&section=header&text=Nur%20Bilge%20Ozcan&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Deep%20Learning%20Researcher&descSize=17&descAlignY=56" 
   width="100%" 
-  alt="Nur Bilge Özcan GitHub Profile Banner" 
+  alt="Nur Bilge Ozcan GitHub Profile Banner" 
 />
 
 <br>
 
 <!-- Typing Animation -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FC0987&center=true&vCenter=true&width=900&lines=Merhaba%2C+ben+Nur+Bilge+%C3%96zcan+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;AI+%26+Deep+Learning+Researcher+%F0%9F%A7%A0;Computer+Vision+%7C+LLMs+%7C+Software+Development+%F0%9F%9A%80" 
-  alt="Typing SVG" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FC0987&center=true&vCenter=true&width=900&lines=Merhaba%2C+ben+Nur+Bilge+%C3%96zcan+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;AI+%26+Deep+Learning+Researcher+%F0%9F%A7%A0;Computer+Vision+%7C+LLMs+%7C+Software+Development+%F0%9F%9A%80" 
+  alt="Typing Animation" 
 />
 
 <br><br>
@@ -22,7 +22,8 @@
 </h3>
 
 <p align="center">
-  Yapay zeka, derin öğrenme, computer vision ve modern yazılım geliştirme alanlarında kendimi geliştiriyorum.  
+  Yapay zeka, derin öğrenme, computer vision ve modern yazılım geliştirme alanlarında kendimi geliştiriyorum.
+  <br>
   Araştırma odaklı projeler üretmeyi, açık kaynak çalışmalara katkı sağlamayı ve AI destekli yazılım geliştirme süreçlerini keşfetmeyi seviyorum.
 </p>
 
